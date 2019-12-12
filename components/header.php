@@ -13,14 +13,11 @@
     <!-- Our Custom CSS -->
 
 
-    <!-- Stylesheet to Highlight our code -->
-    <link rel="stylesheet" href="css/prism.css" />
-    <link rel="stylesheet" href="css/shadesOfPurple.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/public/css/all.css">
     <link rel="shortcut icon" href="images/ps.png" type="image/x-icon">
     <!-- Font Awesome JS -->
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" ></script>
 
 </head>
 

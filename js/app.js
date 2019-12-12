@@ -9,7 +9,3 @@ function switchTab(tabid)
     return currentTabId = tabid; // update the currentabID
 }
 
-const mix = require('laravel-mix');
-
-mix.sass('src/app.sass', 'dist')
-   .js('src/app.js', 'dist');
